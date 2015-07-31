@@ -1,1 +1,1 @@
-!function($){$(function(){var n=$('link[rel="shortcut icon"]'),i=function(i){n.attr("href","http://www.emoji-cheat-sheet.com/graphics/emojis/"+i+".png")};$(window).blur(function(){i("cry")}).focus(function(){i("smile")})})}(window.jQuery);
+!function($){$(function(){var i=$('link[rel="shortcut icon"]'),n=function(n){i.attr("href","https://cdn.rawgit.com/arvida/emoji-cheat-sheet.com/master/public/graphics/emojis/"+n+".png")};$(window).blur(function(){n("cry")}).focus(function(){n("smile")})})}(window.jQuery);

@@ -6,7 +6,7 @@
 
         var emote = function(emoji)
         {
-            favicon.attr('href', 'http://www.emoji-cheat-sheet.com/graphics/emojis/' + emoji + '.png');
+            favicon.attr('href', 'https://cdn.rawgit.com/arvida/emoji-cheat-sheet.com/master/public/graphics/emojis/' + emoji + '.png');
         };
 
         $(window)
