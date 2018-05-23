@@ -131,7 +131,7 @@ html,
 body {
   height: 100%;
   color: #222;
-  font: 17px/20px 'Karla', sans-serif;
+  font: 20px/1 'Karla', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 .outer {
